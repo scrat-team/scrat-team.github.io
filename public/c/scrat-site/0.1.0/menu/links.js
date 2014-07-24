@@ -1,0 +1,1 @@
+define("scrat-site/0.1.0/menu/links.js",function(t,e,s){"use strict";s.exports=[{href:"https://github.com/scrat-team/scrat",icon:"github-alt",label:"Fork me"},{href:"https://github.com/fouber/blog/issues/2",icon:"video-camera",label:"幕后花絮"}]});

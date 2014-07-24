@@ -1,0 +1,1 @@
+define("scrat-team-type/0.1.0/index.js",function(t,e,n){"use strict";var r=Object.prototype.toString;n.exports=function(t){var e;return null==t?e=String(t):(e=r.call(t).toLowerCase(),e=e.substring(8,e.length-1)),e}});

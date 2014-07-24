@@ -1,0 +1,1 @@
+define("scrat-site/0.1.0/footer/footer.js",function(e,t,o){"use strict";o.exports={render:function(e){e.innerHTML="<div class=footer> Based on <a href=//fis.baidu.com target=_blank>F.I.S</a> </div>"}}});

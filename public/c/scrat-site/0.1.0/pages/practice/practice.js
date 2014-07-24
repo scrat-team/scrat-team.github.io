@@ -1,0 +1,1 @@
+define("scrat-site/0.1.0/pages/practice/practice.js",function(t,e){"use strict";e.getMarkdown=function(){return"<h2 id=->最佳实践</h2>"}});

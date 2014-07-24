@@ -1,0 +1,1 @@
+define("scrat-team-each/0.1.0/index.js",function(e,t,r){"use strict";var n=e("type"),a=Object.prototype.hasOwnProperty;r.exports=function(e,t,r){var i,o,c;if("object"==typeof e)if(c=n(e),r=r||e,"array"===c||"arguments"===c||"nodelist"===c){for(i=0,o=e.length;o>i;i++)if(t.call(r,e[i],i,e)===!1)return}else for(i in e)if(a.call(e,i)&&t.call(r,e[i],i,e)===!1)return}});

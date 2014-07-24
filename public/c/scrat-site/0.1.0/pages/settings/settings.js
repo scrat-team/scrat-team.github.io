@@ -1,0 +1,1 @@
+define("scrat-site/0.1.0/pages/settings/settings.js",function(t,s){"use strict";s.getMarkdown=function(){return"<h2 id=->工具配置</h2>"}});

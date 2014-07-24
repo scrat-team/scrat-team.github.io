@@ -1,0 +1,1 @@
+"use strict";require.config(__FRAMEWORK_CONFIG__),require.async(["es5-safe","router","site","fastclick"],function(e,n,c,i){i(document.body),c.render(document.body),n("/:page",function(e){c.load(e)}),n("*",function(){n.replace("/index")}),n()});

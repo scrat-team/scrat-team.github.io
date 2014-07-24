@@ -1,0 +1,1 @@
+require.defineCSS('scrat-site/0.1.0/pages/404/404.css', ".not-found{}.not-found img{display:block;margin:20% auto}");
