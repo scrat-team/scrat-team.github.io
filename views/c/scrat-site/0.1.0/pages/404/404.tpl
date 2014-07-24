@@ -1,1 +1,1 @@
-<div class=not-found> <img src=/public/c/scrat-site/0.1.0/pages/404/css-tricks-404_a35cabc.png> </div>
+<div class=not-found></div>
