@@ -1,1 +1,1 @@
-define("scrat-site/0.1.0/pages/practice/practice.js",function(t,e){"use strict";e.getMarkdown=function(){return"<h2 id=->最佳实践</h2>"}});
+define("scrat-site/0.1.0/pages/practice/practice.js",function(t,e){"use strict";e.getMarkdown=function(){return"<h2 id=user-content-%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5>最佳实践</h2>"}});
